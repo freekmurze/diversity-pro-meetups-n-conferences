@@ -23,7 +23,7 @@ The women.code(be) team
 | Name |  Month | Topic(s) | Location | Language(s) | CoC (optional) |
 |-------|:----:|:---------------:|:----------:|:--------:|----------|
 |[example conference](http://womencode.be) | April | Frontend, UX | Ghent| Dutch English | [link to code of conduct](http://womencode.be)|
-|[Full Stack Europe](https://fullstackeurope.com/) | TBA 2019 | Full Stack | Antwerp | Dutch English |
+|[Full Stack Europe](https://fullstackeurope.com/) | TBA 2018 | Full Stack | Antwerp | Dutch English | |
 
 
 
@@ -33,3 +33,8 @@ The women.code(be) team
 | Name |  Regularity | Topic(s) | Not region fixed? | Location(s) | Languages | CoC (optional) |
 |-------|:----:|:----------:|:-----:|:-----:|:----------:|-------|
 |[women.code(be)](https://www.meetup.com/Women-code-be/) | bi-monthly| Everything code/programming-related and Women in Tech | ✅ | Ghent, Antwerp, Brussels, Mechelen, Leuven | English | [our code of conduct](https://www.womencode.be/code-of-conduct.html)|
+|[Full Stack Antwerp](https://www.meetup.com/fullstackantwerp/) | monthly | Full Stack | ✅ | Antwerp | English |  |
+|[Full Stack Brussels](https://www.meetup.com/fullstackbrussels/) | monthly | Full Stack | ✅ | Brussels | English |  |
+|[Full Stack Ghent](https://www.meetup.com/fullstackghent/) | monthly | Full Stack | ✅ | Ghent | English |  |
+
+
